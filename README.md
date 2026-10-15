@@ -38,35 +38,6 @@ I also build **AI integrations and workflow automations** using n8n, OpenAI and 
 
 **Also working with:** NestJS · Java / Spring Boot · Angular · n8n · OpenAI API
 
-## Selected work
-
-### [01 — Nexa · Retail & POS](https://github.com/WalidChaabi/nexa-platform)
-
-Multi-store retail platform covering products, customers, POS invoices, campaigns and reporting, with role-based workspaces.
-
-**Laravel · Next.js · MySQL**  
-[Explore the repository →](https://github.com/WalidChaabi/nexa-platform)
-
----
-
-### [02 — Hafra · Community Reporting](https://github.com/WalidChaabi/hafra-platform)
-
-Community hazard reporting with maps, photos, confirmations and moderation. A web MVP with an Expo mobile foundation in progress.
-
-**Next.js · NestJS · PostgreSQL · Expo**  
-[Explore the repository →](https://github.com/WalidChaabi/hafra-platform)
-
----
-
-### [03 — ERM · Business Management](https://github.com/WalidChaabi/enterprise-resource-management)
-
-Organization-scoped management of employees, projects, time tracking and leave, with authentication and security workflows.
-
-**Spring Boot · Angular · PostgreSQL**  
-[Explore the repository →](https://github.com/WalidChaabi/enterprise-resource-management)
-
-<sub>These are portfolio projects. Each repository documents its current scope, setup, tests and remaining work.</sub>
-
 ## Let's work together
 
 I'm open to **remote full-time roles** and **freelance projects**, especially Laravel/full-stack development, API integrations and business automation.
