@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Walid Chaabi — Full-Stack Developer</title><desc id="desc">Laravel, React, APIs and AI integrations. Based in Marrakech, open to remote opportunities.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#172431"/></linearGradient></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+<path d="M840 0v320M920 0v320M1000 0v320M1080 0v320M1160 0v320M800 80h400M800 160h400M800 240h400" stroke="#ffffff" stroke-opacity=".045"/>
+<rect x="64" y="58" width="36" height="4" rx="2" fill="#68d5bd"/>
+<text x="64" y="126" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" fill="#f0f6fc">Walid Chaabi</text>
+<text x="66" y="172" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#68d5bd">Full-Stack Developer</text>
+<text x="66" y="218" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#a9b7c6">Laravel / React / REST APIs / AI Integrations</text>
+<text x="66" y="268" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#8293a5">MARRAKECH, MOROCCO  ·  OPEN TO REMOTE OPPORTUNITIES</text>
+<text x="920" y="193" font-family="monospace" font-size="96" fill="#68d5bd" fill-opacity=".65">&lt;/&gt;</text>
+</svg>
